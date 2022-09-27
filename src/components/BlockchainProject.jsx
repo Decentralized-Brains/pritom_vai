@@ -11,7 +11,7 @@ import ChainCard from "./ChainCard";
 
 const BlockchainProject = () => {
   return (
-    <div className="container px-6 mt-4">
+    <div className="container px-6 mt-4" id="projects">
       <h2 className="title">Blockchain Projects</h2>
       <div className="relative w-full py-12">
         <Swiper

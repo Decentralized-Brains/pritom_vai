@@ -8,13 +8,19 @@ const Nav = () => {
           </a>
         </li>
         <li>
-          <a className="text-gray-200 hover:text-sky-400 duration-300" href="#">
+          <a
+            className="text-gray-200 hover:text-sky-400 duration-300"
+            href="#projects"
+          >
             Projects
           </a>
         </li>
         <li>
-          <a className="text-gray-200 hover:text-sky-400 duration-300" href="#">
-            Contact
+          <a
+            className="text-gray-200 hover:text-sky-400 duration-300"
+            href="#research"
+          >
+            Research
           </a>
         </li>
       </ul>
