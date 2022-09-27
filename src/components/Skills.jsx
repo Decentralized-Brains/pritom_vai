@@ -2,7 +2,7 @@ import { skillsData } from "./Data";
 
 const Skills = () => {
   return (
-    <div className="container px-6 py-20">
+    <div className="max-w-[720px] mx-auto px-6 py-20">
       <h2 className="title">Skills</h2>
       <div className="grid grid-cols-2 md:grid-cols-4 gap-3 py-12">
         {skillsData.map((data) => (

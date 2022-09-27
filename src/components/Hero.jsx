@@ -11,7 +11,7 @@ const Hero = () => {
   return (
     <div className="container">
       <Nav />
-      <div className="hidden xl:block fixed xl:right-20 top-[50%] -translate-y-[50%]">
+      <div className="hidden xl:block fixed xl:right-16 top-[50%] -translate-y-[50%] z-50">
         <Social />
       </div>
       <div className="h-[70px] md:hidden"></div>
