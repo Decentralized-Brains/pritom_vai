@@ -3,7 +3,7 @@ import { AiOutlineArrowRight } from "react-icons/ai";
 const ChainCard = ({ data }) => {
   const { description, url, thumbnail, title } = data;
   return (
-    <div className="max-w-[400px] bg-[#191525] p-4 rounded-xl">
+    <div className="max-w-[400px] min-h-[380px] shadow-xl my-10 shadow-sky-600/30 mx-3 bg-[#191525] p-4 rounded-xl">
       <video
         className="w-full rounded-lg"
         src={thumbnail}

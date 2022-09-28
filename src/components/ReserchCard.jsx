@@ -2,7 +2,7 @@ import React from "react";
 
 const ReserchCard = () => {
   return (
-    <div className="text-white border border-gray-400/50 p-4 rounded-xl relative flex justify-between items-center gap-4 mb-10 hover:border-sky-500 duration-200">
+    <div className="text-white border border-gray-400/50 p-4 rounded-xl relative flex flex-col md:flex-row justify-between items-center gap-4 mb-10 hover:border-sky-500 duration-200">
       <div>
         <p className="absolute -top-4 bg-[#04012c] px-5 border border-sky-500 rounded-lg py-1">
           Paper-01

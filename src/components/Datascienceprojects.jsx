@@ -4,7 +4,7 @@ const Datascienceprojects = () => {
   return (
     <div className="container px-6 py-12 mt-6">
       <h2 className="title">Data Science Projects</h2>
-      <div className="mt-12 grid grid-cols-2 xl:grid-cols-3 gap-y-4">
+      <div className="mt-12 grid md:grid-cols-2 xl:grid-cols-3 gap-y-4">
         <a
           href="#"
           className="group w-fit duration-300 flex flex-col gap-3 items-center text-white hover:text-sky-500"
