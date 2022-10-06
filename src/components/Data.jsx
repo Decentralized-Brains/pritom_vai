@@ -133,3 +133,29 @@ export const ProjectData = [
     thumbnail: p2,
   },
 ];
+
+export const publications = [
+  {
+    id: 1,
+    title: "Categorization of Protean Writers by Exploitation of Raspberry Pi",
+    desc: "Journal of Scientific Research and Development ",
+    date: "Jun 13, 2020",
+    url: "https://www.researchgate.net/publication/342130441_Categorization_of_Protean_Writers_by_Exploitation_of_Raspberry_Pi",
+  },
+  {
+    id: 2,
+    title:
+      "Interpretation of Sadhu into Cholit Bhasha by Cataloguing and Translation System",
+    desc: "International Journal of Trend in Scientific Research and Development (IJTSRD)",
+    date: "Apr 29, 2020",
+    url: "https://www.ijtsrd.com/papers/ijtsrd30792.pdf?fbclid=IwAR3IzTOjEAPsmgHonWpZKPu2bPKqYSPj8rG7xhtU4793hO4EgwEV1a58Ico",
+  },
+  {
+    id: 3,
+    title:
+      "Ascertain the Influence of Ensemble Procedure on Categorization of YouTube Video Label by Machine Learning StratagemAscertain",
+    desc: "Ascertain the Influence of Ensemble Procedure on Categorization of YouTube Video Label by Machine Learning Stratagem International Journal of Latest Research in Engineering and Technology",
+    date: "Apr 25, 2020",
+    url: "http://www.ijlret.com/Papers/Vol-06-issue-04/3.B2020085.pdf",
+  },
+];
