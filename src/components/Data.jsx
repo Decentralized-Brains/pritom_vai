@@ -159,3 +159,60 @@ export const publications = [
     url: "http://www.ijlret.com/Papers/Vol-06-issue-04/3.B2020085.pdf",
   },
 ];
+
+export const dataScienceProojects = [
+  {
+    id: 1,
+    name: "Marriage Registration System",
+    desc: "Marriage-registration-system-using-blockchain-smart-contract: Bitcoin has emerged as a disruptive technology with the power to revolutionize business and its processes....",
+    url: "https://github.com/Pritom-sarker/marriage-registration-system-using-blockchain-smart-contract",
+  },
+  {
+    id: 2,
+    name: "Generate NFT using Python",
+    desc: "Generate-NFT-using-Python Contribute to Pritom-sarker/Generate-NFT-using-Python development by creating an account on GitHub.....",
+    url: "https://github.com/Pritom-sarker/Generate-NFT-using-Python",
+  },
+  {
+    id: 3,
+    name: "Steganography Hide Data in Images Using Python",
+    desc: "The mystery information can be information of any organization like content or even a record. More or less, the primary intention of steganography.....",
+    url: "https://github.com/Pritom-sarker/Steganography-Hide-Data-in-Images-Using-Python",
+  },
+  {
+    id: 4,
+    name: "Prepare Text Data for Machine Learning with scikit learn",
+    desc: "Prepare-Text-Data-for-Machine-Learning-with-scikit-learn development by creating an account on GitHub......",
+    url: "https://github.com/Pritom-sarker/Prepare-Text-Data-for-Machine-Learning-with-scikit-learn",
+  },
+  {
+    id: 5,
+    name: "Google map scraping using python selenium",
+    desc: "Selenium Python-based web scraping tool that will allow you to automate google Maps. - GitHub - Pritom-sarker/Google-map-scraping-using-python-selenium: Selenium Python-b.......",
+    url: "https://github.com/Pritom-sarker/Google-map-scraping-using-python-selenium",
+  },
+  {
+    id: 6,
+    name: "Sentiment analysis positive and negative sentence using machine learning",
+    desc: "Sentiment-analysis-positive-and-negative-sentence-using-machine-learning development by creating an account on GitHub.......",
+    url: "https://github.com/Pritom-sarker/sentiment-analysis-positive-and-negative-sentence-using-machine-learning",
+  },
+  {
+    id: 7,
+    name: "YouTube Video title classifier",
+    desc: "YouTube-Video-title-classifier development by creating an account on GitHub.....",
+    url: "https://github.com/Pritom-sarker/YouTube-Video-title-classifier",
+  },
+  {
+    id: 8,
+    name: "Tinu chatbot seq2seq tensorflow",
+    desc: "This is a implementation of Twitter/Cornell-Movie Chatbot Tinu . A sequence2sequence chatbot implementation with TensorFlow 1.10.....",
+    url: "https://github.com/Pritom-sarker/Tinu_chatbot_seq2seq_tensorflow",
+  },
+  {
+    id: 9,
+    name: "Cnn sign language",
+    desc: "Cnn_sign_language development by creating an account on GitHub......",
+    url: "https://github.com/Pritom-sarker/cnn_sign_language",
+  },
+];
