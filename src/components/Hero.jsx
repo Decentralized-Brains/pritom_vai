@@ -42,7 +42,11 @@ const Hero = () => {
               worked on various NFT, DAO, DEFI, and Metaverse projects with
               satisfactory services
             </p>
-            <button className="w-fit">Download My CV</button>
+            <button className="w-fit">
+              <a href="https://impritom.com/resume.pdf" target="blank">
+                Download My CV
+              </a>
+            </button>
             <div className="flex pt-6 gap-4 text-xl">
               <a
                 className="text-white hover:text-sky-400 duration-200"
