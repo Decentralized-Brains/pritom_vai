@@ -158,6 +158,14 @@ export const publications = [
     date: "Apr 25, 2020",
     url: "http://www.ijlret.com/Papers/Vol-06-issue-04/3.B2020085.pdf",
   },
+  {
+    id: 4,
+    title:
+      "Defining a Modified Cycle Sort Algorithm and Parallel Critique with other Sorting Algorithms",
+    desc: "GRD Journal for Engineering ",
+    date: "Mar 15, 2020",
+    url: "https://www.grdjournals.com/article?paper_id=GRDJEV05I050001",
+  },
 ];
 
 export const dataScienceProojects = [
