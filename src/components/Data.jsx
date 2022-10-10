@@ -1,36 +1,31 @@
-import { BsFacebook, BsInstagram, BsMedium, BsTwitter } from "react-icons/bs";
-import { FaDiscord, FaTelegramPlane } from "react-icons/fa";
+import { BsFacebook, BsWhatsapp, BsLinkedin, BsSkype } from "react-icons/bs";
+import { FaTelegramPlane } from "react-icons/fa";
 
 export const social = [
   {
     id: 1,
     icon: <FaTelegramPlane />,
-    url: "https://t.me/DoRacOfficialchat",
+    url: "https://t.me/iampritom",
   },
   {
     id: 2,
-    icon: <BsTwitter />,
-    url: "https://twitter.com/DoRac_Official",
+    icon: <BsWhatsapp />,
+    url: "https://wa.me/+8801750352163",
   },
   {
     id: 3,
     icon: <BsFacebook />,
-    url: "https://www.facebook.com/DogeRaceOfficial",
+    url: "https://www.facebook.com/pritom.sarker.bishal",
   },
   {
     id: 4,
-    icon: <BsInstagram />,
-    url: "https://www.instagram.com/dorac_official/",
+    icon: <BsLinkedin />,
+    url: "https://www.linkedin.com/in/me-pritom/",
   },
   {
     id: 5,
-    icon: <BsMedium />,
-    url: "https://medium.com/@DoRacOfficial",
-  },
-  {
-    id: 6,
-    icon: <FaDiscord />,
-    url: "https://discord.gg/vswdzWUVm8",
+    icon: <BsSkype />,
+    url: "skype:+8801750352163",
   },
 ];
 
