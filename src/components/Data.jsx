@@ -29,14 +29,18 @@ export const social = [
   },
 ];
 
+import solidity from "../assets/img/Solidity.png";
+import python from "../assets/img/python.png";
+import rust from "../assets/img/rust.png";
 import js from "../assets/img/js.png";
 import react from "../assets/img/react.png";
-import redux from "../assets/img/redux.png";
-import ds from "../assets/img/ds.png";
-import wing from "../assets/img/wing.png";
-import python from "../assets/img/python.png";
 import node from "../assets/img/node.png";
-import angular from "../assets/img/angular.png";
+import tensorflow from "../assets/img/tensorflow.png";
+import Scikit_learn from "../assets/img/Scikit_learn.png";
+import Hadoop from "../assets/img/Hadoop_logo.png";
+import hardhat from "../assets/img/hardhat.png";
+import truffle from "../assets/img/truffle.png";
+import Flask from "../assets/img/Flask.png";
 
 export const skillsData = [
   {
@@ -51,18 +55,18 @@ export const skillsData = [
   },
   {
     id: 3,
-    img: redux,
-    tech: "Redux",
+    img: solidity,
+    tech: "Solidity",
   },
   {
     id: 4,
-    img: ds,
-    tech: "Data Science",
+    img: tensorflow,
+    tech: "Tensorflow",
   },
   {
     id: 5,
-    img: wing,
-    tech: "Blockchain",
+    img: rust,
+    tech: "RUST",
   },
   {
     id: 6,
@@ -71,13 +75,33 @@ export const skillsData = [
   },
   {
     id: 7,
-    img: node,
-    tech: "Node js",
+    img: Scikit_learn,
+    tech: "Scikit Learn",
   },
   {
     id: 8,
-    img: angular,
+    img: Hadoop,
     tech: "Angular js",
+  },
+  {
+    id: 9,
+    img: hardhat,
+    tech: "Hardhat",
+  },
+  {
+    id: 10,
+    img: truffle,
+    tech: "Truffle",
+  },
+  {
+    id: 11,
+    img: Flask,
+    tech: "Flask",
+  },
+  {
+    id: 12,
+    img: node,
+    tech: "Node js",
   },
 ];
 
@@ -155,6 +179,13 @@ export const publications = [
   },
   {
     id: 4,
+    title: "Pritom Sarker",
+    desc: "Varendra University · Department of Computer Science & Engineering Bachelor of Science",
+    date: "",
+    url: "https://www.researchgate.net/profile/Pritom-Sarker",
+  },
+  {
+    id: 5,
     title:
       "Defining a Modified Cycle Sort Algorithm and Parallel Critique with other Sorting Algorithms",
     desc: "GRD Journal for Engineering ",
